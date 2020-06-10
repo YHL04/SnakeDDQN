@@ -4,7 +4,7 @@ Double-Deep-Q-Network is an AI algorithm that uses neural network to train the a
 
 ### Progress:
 
-![graph](https://github.com/YHL04/SnakeDDQN/logs/graph.png?raw=true)
+![alt text](https://github.com/YHL04/SnakeDDQN/blob/master/logs/graph.png?raw=true "Average Points Per 100 game")
 
 
 
