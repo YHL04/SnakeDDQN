@@ -10,6 +10,8 @@ Double-Deep-Q-Network is an AI algorithm that uses neural network to train the a
 
 
 
+Note if 'directory not found' error, add empty 'saves' folder to the root directory
+
 Resources:
 
 DQN: https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
